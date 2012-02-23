@@ -1,6 +1,6 @@
 outlets = 2;
 var a = new Array();
-var nowCtlNum = -1;
+var nowCtlNum = 0;
 function ctlin(v,n,c){
 	nowCtlNum = n;
 	var _index = a.indexOf(n);
